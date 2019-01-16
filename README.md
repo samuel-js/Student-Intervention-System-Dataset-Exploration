@@ -1,5 +1,5 @@
 # Student Intervention System - Dataset Exploration
-## by (Samuel Jiménez Sanabria)
+## by Samuel Jiménez Sanabria
 
 
 ## Dataset
