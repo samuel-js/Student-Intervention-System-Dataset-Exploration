@@ -31,3 +31,11 @@ From all the analysis and visualizations I take three basic points for the prese
 - There are affecting factors but no decisive factors when looking at what may have an impact on student results. 
 - The students have generally favorable conditions for learning.
 - Studying and going to school is a good starting point for a good result.
+
+## Resources
+- [Machine Learning Udacity](https://github.com/udacity/machine-learning/tree/master/projects/student_intervention)
+- [Seaborn](https://seaborn.pydata.org/)
+- [Matplotlib](https://matplotlib.org/index.html)
+- [How do I change the figure size for a seaborn plot?](https://stackoverflow.com/questions/31594549/how-do-i-change-the-figure-size-for-a-seaborn-plot)
+- [Highlight typos in the jupyter notebook markdown](https://stackoverflow.com/questions/39324039/highlight-typos-in-the-jupyter-notebook-markdown)
+- [How to get the first column of a pandas DataFrame as a Series?](https://stackoverflow.com/questions/15360925/how-to-get-the-first-column-of-a-pandas-dataframe-as-a-series)
