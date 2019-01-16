@@ -28,6 +28,6 @@ To give some light I'd like to conclude saying that this unanswered question is 
 ## Key Insights for Presentation
 From all the analysis and visualizations I take three basic points for the presentation:
 	
-	* There are affecting factors but no decisive factors when looking at what may have an impact on student results. 
-	* The students have generally favorable conditions for learning.
-	* Studying and going to school is a good starting point for a good result.
+- There are affecting factors but no decisive factors when looking at what may have an impact on student results. 
+- The students have generally favorable conditions for learning.
+- Studying and going to school is a good starting point for a good result.
